@@ -6,7 +6,7 @@
 extern "C" {
   #include <espnow.h>
 }
-uint8_t receiverMac[] = {0x48,0x55,0x19,0x16,0x57,0xC5};
+uint8_t receiverMac[] = { MAC ADDRESS de l'ESP01 cote socket};
 
 // -------- STRUCTURE ESPNOW --------
 typedef struct {
