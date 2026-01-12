@@ -2,9 +2,6 @@
 
 
 
-//        MAC Address 48:55:19:16:57:C5
-
-
 #include <ESP8266WiFi.h>
 extern "C" {
   #include <espnow.h>
