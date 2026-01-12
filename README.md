@@ -12,3 +12,7 @@ Via cette interface on peux regler la consigne de temperature, le mode de foncti
 j'utilise un module ADS1115 pour la lecture de la tension batterie.
 
 Note: j'ai eu recours a ChatGPT pour la partie interface web du socket.
+
+https://github.com/user-attachments/assets/3ca3e2ee-180f-4511-860b-c8590abf40b1
+
+
