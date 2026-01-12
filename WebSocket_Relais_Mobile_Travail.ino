@@ -9,8 +9,8 @@
 
 #define RELAY_PIN 25
 
-const char* ssid = "Bbox-E295749E-2,4GHz";
-const char* password = "Mb&2427242711";
+const char* ssid = "SSID";
+const char* password = "PASS";
 
 // ---------- OBJETS ----------
 Preferences prefs;
