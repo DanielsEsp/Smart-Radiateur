@@ -10,12 +10,11 @@
 #include <U8g2lib.h>
 // ------------ OLED --------------
 U8G2_SH1106_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, U8X8_PIN_NONE);
-const char degree_symbol[] = "\u00B0C";
 
 #define RELAY_PIN 25
 
-const char* ssid = "Bbox-E295749E-2,4GHz";
-const char* password = "Mb&2427242711";
+const char* ssid = "SSIDz";
+const char* password = "PASS";
 
 // ---------- OBJETS ----------
 Preferences prefs;
