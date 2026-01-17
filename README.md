@@ -15,4 +15,6 @@ Note: j'ai eu recours a ChatGPT pour la partie interface web du socket.
 
 https://github.com/user-attachments/assets/3ca3e2ee-180f-4511-860b-c8590abf40b1
 
+Modification pour ajout sur la base WebSocket d'une ecran OLED type SH1116 pour l'affichage des donnees et fonctions.
+
 
